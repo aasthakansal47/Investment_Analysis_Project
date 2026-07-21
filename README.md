@@ -114,8 +114,10 @@ Investment_Analysis_Project/
 
 > Add your **Final Dashboard screenshot** here after uploading it to the repository.
 
-```md
-![Dashboard](Dashboard_Screenshots/Final_Dashboard.png)
+
+## 📸 Final Dashboard
+
+![Investment_Analysis_Dashboard](Dashboard_Screenshots/Final_Dashboard.png)
 ```
 
 ---
