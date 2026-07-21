@@ -134,7 +134,7 @@ Below is the final interactive Power BI dashboard developed as part of the Inves
 **Aastha Kansal**
 
 - 💼 Aspiring Data Analyst
-- 🔗 LinkedIn: *(Add your LinkedIn profile link)*
+- 🔗 LinkedIn: https://www.linkedin.com/in/aastha-kansal-561533311
 - 💻 GitHub: https://github.com/aasthakansal47
 
 ---
