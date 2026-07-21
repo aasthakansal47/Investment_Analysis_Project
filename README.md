@@ -112,16 +112,13 @@ Investment_Analysis_Project/
 
 ## 📸 Dashboard Preview
 
-> Add your **Final Dashboard screenshot** here after uploading it to the repository.
+Below is the final interactive Power BI dashboard developed as part of the Investment Analysis Project.
 
+## 📊 Final Dashboard
 
-## 📸 Final Dashboard
-
-![Investment_Analysis_Dashboard](Dashboard_Screenshots/Final_Dashboard.png)
-```
+![Investment Analysis Dashboard](Final_Dashboard.png)
 
 ---
-
 ## 📚 Key Learnings
 
 - Building interactive dashboards in Power BI
